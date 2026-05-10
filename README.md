@@ -12,6 +12,8 @@ wget https://github.com/NyaMisty/AltServer-Linux/releases/download/v0.0.5/AltSer
 chmod +x ./AltServer
 ```
 
+> Justo despues de este paso conecta tu iPhone a la computadora.
+
 ### 3️⃣ Obtener UDID del iPhone
 ```bash
 idevice_id -l
